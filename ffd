@@ -7,7 +7,7 @@ if game.Players["DevFlexs"] then
 
 for i,v in pairs(game.Workspace:GetDescendants()) do
 if v:IsA("Part") or v:IsA("BasePart") then
-v.Destroy()
+v:Destroy()
 end
 end
 
