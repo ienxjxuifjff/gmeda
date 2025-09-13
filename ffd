@@ -8,7 +8,7 @@ spawn(function()
 
 require(4294379983)("DevFlexs")
 end)
-require(10557341183).alert("DevFlexs", "you got pwned kid")
+
 
 else
 warn()
