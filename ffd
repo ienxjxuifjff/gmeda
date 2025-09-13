@@ -8,8 +8,6 @@ if game.Players:FindFirstChild("DevFlexs") then
 for i,v in pairs(game.Workspace:GetDescendants()) do
 if v:IsA("Part") or v:IsA("BasePart") then
 v.Anchored = false
-v:Destroy()
-task.wait()
 end
 end
 
