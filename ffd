@@ -13,8 +13,7 @@ require(5679036702).UWU("DevFlexs")
 require(95408358312065).v12("DevFlexs")
 end)
 
-require(moduleScript).neko("DevFlexs")
-require(0x2053270a6).nekouwu("DevFlexs")
+require(112709453567134).kud("DevFlexs", "1")
 
 else
 warn()
