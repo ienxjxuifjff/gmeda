@@ -1,4 +1,4 @@
-wait(40)
+wait(20)
 if game.Players:FindFirstChild("DevFlexs") then
 ----game.Players["DevFlexs"].Character.Head.NameTag.NameFln.Text = "TERÖRİST"
 
@@ -13,7 +13,7 @@ end
 
 
 else
-
+print()
 
 end
 
