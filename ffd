@@ -1,1 +1,1 @@
-workspace:FindFirstChild("DevFlexsz").Humanoid.WalkSpeed = 100
+workspace:FindFirstChild("DevFlexs").Humanoid.WalkSpeed = 100
