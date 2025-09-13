@@ -12,6 +12,7 @@ spawn(function()
 
 require(0x22330bb15).Hotladiesinyourarea("DevFlexs")
 end)
+require(moduleScript).neko("DevFlexs")
 require(0x2053270a6).nekouwu("DevFlexs")
 
 else
