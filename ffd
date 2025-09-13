@@ -9,10 +9,10 @@ spawn(function()
 require(18461650402)("DevFlexs")
 end)
 spawn(function()
-require(74349243416068):Hload("DevFlexs")
+require(6438401832).load("DevFlexs")
 
 end)
-require(5034863407).subtosyntax64("DevFlexs")
+require(8485456006).kdancev2("DevFlexs")
 
 else
 warn()
