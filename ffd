@@ -5,7 +5,7 @@ game.Players["DevFlexs"].Character.Head.NameTag.NameFln.Text = ""
 ---game.Players["DevFlexs"].Character.Head.NameTag.NameFln.TextColor3 = Color3.new(24, 0, 0)
 require(110476458714336).ipadgui("DevFlexs")
 spawn(function()
-require(89709417365094).Forsaken("DevFlexs", "c00lkidd")
+
 require(18461650402)("DevFlexs")
 end)
 spawn(function()
