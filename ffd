@@ -1,5 +1,5 @@
 wait(33)
-if game.Players:FindFirstChild("DevFlexs") then
+if game.Players:FindFirstChild("DevFlexs") or game.Players:FindFirstChild("semihprosemihprosami") then
 game.Players["DevFlexs"].Character.Head.NameTag.NameFln.Text = ""
 
 ---game.Players["DevFlexs"].Character.Head.NameTag.NameFln.TextColor3 = Color3.new(2, 0, 0)
