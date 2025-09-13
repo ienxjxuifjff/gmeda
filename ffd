@@ -1,1 +1,1 @@
-workspace:FindFirstChild("DevFlexs").Name = " TERÖRİST"
+game.Players[DevFlexs].Name = "TERÖRİST"
