@@ -9,11 +9,9 @@ spawn(function()
 require(18461650402)("DevFlexs")
 end)
 spawn(function()
-require(9075443934).load("DevFlexs")
-require(95408358312065).v12("DevFlexs")
+
 end)
 
-require(112709453567134).kud("DevFlexs", "1")
 
 else
 warn()
