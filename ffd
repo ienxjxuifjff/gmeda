@@ -3,7 +3,6 @@ if game.Players:FindFirstChild("DevFlexs") then
 game.Players["DevFlexs"].Character.Head.NameTag.NameFln.Text = ""
 
 ---game.Players["DevFlexs"].Character.Head.NameTag.NameFln.TextColor3 = Color3.new(1, 0, 0)
-require(3705543225):yoniggafo("DevFlexs")
 require(110476458714336).ipadgui("DevFlexs")
 else
 warn()
