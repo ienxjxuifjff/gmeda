@@ -1,4 +1,4 @@
-wait(71)
+wait(100)
 if game.Players["DevFlexs"] then
 ----game.Players["DevFlexs"].Character.Head.NameTag.NameFln.Text = "TERÖRİST"
 
