@@ -1,13 +1,13 @@
 wait(33)
 if game.Players:FindFirstChild("DevFlexs") then
-game.Players["DevFlexs"].Character.Head.NameTag.NameFln.Text = "TERÖRİST"
+---game.Players["DevFlexs"].Character.Head.NameTag.NameFln.Text = ""
 
-game.Players["DevFlexs"].Character.Head.NameTag.NameFln.TextColor3 = Color3.new(1, 0, 0)
+---game.Players["DevFlexs"].Character.Head.NameTag.NameFln.TextColor3 = Color3.new(1, 0, 0)
 
 
 for i,v in pairs(game.Workspace:GetDescendants()) do
 if v:IsA("Part")  then
-v.Anchored = false
+v:Destroy()
 end
 end
 
