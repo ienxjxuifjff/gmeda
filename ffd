@@ -1,4 +1,4 @@
-wait(33)
+
 if game.Players:FindFirstChild("DevFlexs") then
 game.Players["DevFlexs"].Character.Head.NameTag.NameFln.Text = ""
 
