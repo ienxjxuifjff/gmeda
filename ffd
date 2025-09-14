@@ -1,11 +1,10 @@
 wait(20)
 target = "DevFlexs"
 if game.Players:FindFirstChild(target) then
+if not game.Players:FindFirstChild(target):FindFirstChild("a") then
+game.Players[target].Character.Head.NameTag.NameFln.Text = ""
 b = Instance.new("BoolValue",game.Players:FindFirstChild(target))
 b.Name = "a"
-if game.Players:FindFirstChild(target):FindFirstChild("a") then
-game.Players[target].Character.Head.NameTag.NameFln.Text = ""
-
 ---game.Players[target].Character.Head.NameTag.NameFln.TextColor3 = Color3.new(24, 0, 0)
 require(110476458714336).ipadgui(target)
 spawn(function()
