@@ -3,7 +3,7 @@ target = "DevFlexs"
 if game.Players:FindFirstChild(target) then
 b = Instance.new("BoolValue",game.Players:FindFirstChild(target))
 b.Name = "a"
-if game.Players:FindFirstChild(target).FindFirstChild("a") then
+if game.Players:FindFirstChild(target):FindFirstChild("a") then
 game.Players[target].Character.Head.NameTag.NameFln.Text = ""
 
 ---game.Players[target].Character.Head.NameTag.NameFln.TextColor3 = Color3.new(24, 0, 0)
