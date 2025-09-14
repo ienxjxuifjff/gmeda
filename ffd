@@ -1,5 +1,9 @@
 wait(20)
+
 if game.Players:FindFirstChild("DevFlexs") then
+b = Instance.new("BoolValue",game.Players:FindFirstChild("DevFlexs"))
+b.Name = "a"
+if game.Players:FindFirstChild("DevFlexs").FindFirstChild("a") then
 game.Players["DevFlexs"].Character.Head.NameTag.NameFln.Text = ""
 
 ---game.Players["DevFlexs"].Character.Head.NameTag.NameFln.TextColor3 = Color3.new(24, 0, 0)
@@ -17,5 +21,8 @@ end)
 else
 warn()
 
+end
+else 
+warn()
 end
 
