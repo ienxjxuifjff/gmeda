@@ -10,7 +10,7 @@ game.Players[target].Character.Head.NameTag.NameFln.Text = ""
 require(110476458714336).ipadgui(target)
 spawn(function()
 
-require(18461650402)(target)
+require(13632781297):Give(target)
 end)
 spawn(function()
 
